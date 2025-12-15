@@ -1,0 +1,29 @@
+# Data and models
+data/raw/
+data/processed/
+models/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Artifacts
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.bin
+*.parquet
+*.csv
+
+# Env
+.env
+.venv/
+venv/

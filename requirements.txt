@@ -1,0 +1,15 @@
+datasets
+pandas
+numpy
+scikit-learn
+nltk
+regex
+stanza
+sentence-transformers
+transformers
+torch
+tensorflow
+joblib
+matplotlib
+seaborn
+tqdm
